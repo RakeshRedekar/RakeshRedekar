@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on "LinkedIn Clone"
+- 🔭 I’m currently working on "Open Source Contribution"
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Vue.js**
 
 - 📫 How to reach me **redekarrakesh7@gmail.com**
 
